@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">DST CUV</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">About</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="own">own</string>
+    <string name="rented">rented</string>
+    <string name="fixed_Cost_pumping">Fixed Cost Pumping -- Tubewell</string>
+    <string name="cost_of_boring">Cost Of Boring(Rs)</string>
+    <string name="cost_of_pump">Cost Of Pump(Rs)</string>
+    <string name="cost_of_disel_engine_motor">Cost of Diesel Engine/Electric Motor(Rs)</string>
+    <string name="cost_of_fitting_accessories">Cost of fitting and accessories(Rs)</string>
+    <string name="salvage_value_of_total_system">Salvage Value of total System(Rs)</string>
+    <string name="rate_of_intrest">Rate of Intrest(%) Annual</string>
+    <string name="intrest_cost">Intrest Cost(Rs)</string>
+    <string name="total_cost">Total Cost(Rs)</string>
+    <string name="cost_of_irrigation">Cost Of Irrigation</string>
+    <string name="area_irr_during_nursery">Area Irr during Nursery(Katha)</string>
+    <string name="hrs_of_opr_to_irr_one_kath_nur_once">Hrs of Opration to Irr one katha nursary once</string>
+    <string name="no_of_irr_durinng_nur">No of Irr During Nursary</string>
+    <string name="area_irr_during_kharif_rice_katha">Area Irr During kharif Rice Katha</string>
+    <string name="hrs_of_opr_to_irr_per_katha_of_kharif_rice_once">Hrs of Opration to Irr kahta of Kharif rice once</string>
+    <string name="no_of_irr_for_kharif_rice">No of Irr for Kharif Rice</string>
+    <string name="area_irr_during_kharif_crop1">Area Irr During kharif Crop1</string>
+    <string name="hrs_of_opr_to_irr_one_katha_of_kharif_crop1_once">Hrs Of Operation to Rirr One katha of Kharif Crop1 once</string>
+    <string name="no_of_Irr_for_kharif_crop1">No of Irr for Kharif Crop1</string>
+    <string name="area_irr_during_kharif_crop2">Area Irr during kharif crop2(katha)</string>
+    <string name="hrs_of_opr_to_irr_one_katha_of_kharif_crop2_once">Hrs Of Operation to Rirr One katha of Kharif Crop2 once</string>
+    <string name="no_of_Irr_for_kharif_crop2">No of Irr for Kharif Crop2</string>
+    <string name="total_area_during_kharif_season">total area during kharif season(Katha)</string>
+    <string name="irr_during_kharif">irrigation during kharif</string>
+    <string name="operation_cost">Operation Cost(Rs/hr)</string>
+    <string name="fuel_consuption">fuel consuption (lt/hr)</string>
+    <string name="bht_engine">BHP of Engine</string>
+    <string name="special_fuel_cons">Special Fuel Consumption(L/BPH-Hr)</string>
+    <string name="desc_cost">Description Cost</string>
+    <string name="pump_life">Pump Life(years)</string>
+    <string name="pump_salvage">Pump Salvage Value(Rs)</string>
+    <string name="desc_cost_of_pump">Depreciation Cost of Pump(Rs)</string>
+    <string name="life_of_diesel_engine">Life of diesel enginer(yr)</string>
+    <string name="salvage_value_of_diesel_engine">Salvage Value of diesel egine(Rs)</string>
+    <string name="desc_cost_of_diesel_engine">Depreciation Cost of Diesel Engine(Rs)</string>
+</resources>
