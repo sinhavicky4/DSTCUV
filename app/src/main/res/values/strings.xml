@@ -36,7 +36,7 @@
     <string name="fuel_consuption">fuel consuption (lt/hr)</string>
     <string name="bht_engine">BHP of Engine</string>
     <string name="special_fuel_cons">Special Fuel Consumption(L/BPH-Hr)</string>
-    <string name="desc_cost">Description Cost</string>
+    <string name="desc_cost">Depreciation Cost</string>
     <string name="pump_life">Pump Life(years)</string>
     <string name="pump_salvage">Pump Salvage Value(Rs)</string>
     <string name="desc_cost_of_pump">Depreciation Cost of Pump(Rs)</string>
