@@ -48,4 +48,21 @@
     <string name="desc_cost_fitting_and_ass">Depreciation Cost of fitting and accessories(Rs)</string>
     <string name="total_desc_cost">Total Depreciation Cost(rs)</string>
     <string name="total_fixed_cost">Total Fixed Cost</string>
+    <string name="irr_during_rabi_and_other">Irrigation during  Rabi and other Crops</string>
+    <string name="area_irr_during_rabi_crop1">Area irr during rabi crop1(Katha)</string>
+    <string name="hrs_opr_to_irr_one_katha_of_rabi_crop1_once">Hrs of operation to Irr one katha of rabi crop1 once</string>
+    <string name="no_of_irr_for_rabi_crop1">No of Irr for rabi crop1</string>
+
+    <string name="area_irr_during_rabi_crop2">Area irr during rabi crop2(Katha)</string>
+    <string name="hrs_opr_to_irr_one_katha_of_rabi_crop2_once">Hrs of operation to Irr one katha of rabi crop2 once</string>
+    <string name="no_of_irr_for_rabi_crop2">No of Irr for rabi crop2</string>
+
+
+    <string name="area_irr_during_rabi_crop3">Area irr during rabi crop3(Katha)</string>
+    <string name="hrs_opr_to_irr_one_katha_of_rabi_crop3_once">Hrs of operation to Irr one katha of rabi crop3 once</string>
+    <string name="no_of_irr_for_rabi_crop3">No of Irr for rabi crop3</string>
+    
+    <string name="total_area_during_rabi_altleast_once_season_katha">Total Arera during Rabi atlease Once sesssion(katha)</string>
+    <string name="hrs_of_opr_to_irr_one_katha_of_other_crop1_once">Hrs of Opr to Irr one katha of other crop1 once</string>
+    <string name="area_irr_during_other_crop1">Area Irr during other crop 1(katha)</string>
 </resources>

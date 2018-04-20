@@ -34,9 +34,15 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
 -->
-
+<!--
         <include
             layout="@layout/description_cost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>-->
+
+
+        <include
+            layout="@layout/cost_of_irr_rabi_and_others"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
 
