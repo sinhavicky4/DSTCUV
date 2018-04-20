@@ -43,4 +43,9 @@
     <string name="life_of_diesel_engine">Life of diesel enginer(yr)</string>
     <string name="salvage_value_of_diesel_engine">Salvage Value of diesel egine(Rs)</string>
     <string name="desc_cost_of_diesel_engine">Depreciation Cost of Diesel Engine(Rs)</string>
+    <string name="life_of_fitting_and_ass">Life of fitting and accessories(years)</string>
+    <string name="salvage_value_of_fitting_and_ass">Salvage Value of fitting and Accessories(Rs)</string>
+    <string name="desc_cost_fitting_and_ass">Depreciation Cost of fitting and accessories(Rs)</string>
+    <string name="total_desc_cost">Total Depreciation Cost(rs)</string>
+    <string name="total_fixed_cost">Total Fixed Cost</string>
 </resources>
